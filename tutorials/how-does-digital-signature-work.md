@@ -38,10 +38,10 @@ Digital signatures depend on two technologies (tutorial links below):
 
 ### Advantages of using a digital signature
 Coming back to the first point in this tutorial, we said that there are advantages to using digital signatures. Let's look at the reasons as well. 
-- *it is hard to forge/replicate:* the signature can be forged only if the private key is lost/stolen and this is rare as the signer is expected to keep it very carefully. 
-- *is unique to an individual:* the signature is created using a signer's private key which is known only to him. So this makes it unique to an individual. It also ensures that after the document has been signed using the private key, a person cannot deny that he signed it (unless his private key hsa been lost). This is called non-repudiation.
-- *and the signature varies based on the content of the document being signed:* this is because the signature is created by encrypting the hash of the message. Everytime the message changes, so does the signature making it unique and hard to forge. 
-- *cannot tamper with the public key as well:* if someone tampers with the public key which is transmitted from the signer's side, then the message cannot be decrypted which is an indication of an hacking attack. It is also extremely difficult to guess the the public key by just looking at the encrypted message. 
+- **it is hard to forge/replicate:** the signature can be forged only if the private key is lost/stolen and this is rare as the signer is expected to keep it very carefully. 
+- **is unique to an individual:** the signature is created using a signer's private key which is known only to him. So this makes it unique to an individual. It also ensures that after the document has been signed using the private key, a person cannot deny that he signed it (unless his private key hsa been lost). This is called non-repudiation.
+- **and the signature varies based on the content of the document being signed:** this is because the signature is created by encrypting the hash of the message. Everytime the message changes, so does the signature making it unique and hard to forge. 
+- **cannot tamper with the public key as well:** if someone tampers with the public key which is transmitted from the signer's side, then the message cannot be decrypted which is an indication of an hacking attack. It is also extremely difficult to guess the the public key by just looking at the encrypted message. 
 
 Hope this tutorial helped you understand digital signatures.
 
