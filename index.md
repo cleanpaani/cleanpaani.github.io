@@ -13,7 +13,7 @@ If you find errors, or have improvements to suggest, please send me an email at 
 #### **Cryptography basics**
 * [What is cryptographic hashing and what are it's properties?](https://mdcrypto512.github.io/tutorials/what-is-cryptographic-hashing-blockchain-bitcoin)
 * [What is public/private key cryptography with an example.](https://mdcrypto512.github.io/tutorials/public-private-key-blockchain-bitcoin)
-* *How does a digital signature work?*
+* [How does a digital signature work?](https://mdcrypto512.github.io/tutorials/how-does-digital-signature-work)
 * *What is SHA-256?*
 
 
