@@ -45,8 +45,8 @@ Okay! That was a lot of information – so let’s summarize it quickly before w
 > - the hash should be extremely hard to reverse-engineer (computationally).
 > - computing the hash should be computationally efficient.
 
-So how do we apply hashing to cryptocurrency? If you understand these fundamental properties of hashing, then you have the necessary knowledge to understand how hashing is used in blockchains and cryptocurrencies (bitcoin, altcoins). We will dive into this in a future lesson.
+Hope you understood how cryptographic hashing works. 
 
-However, this is just the tip of the iceberg – we need to study a little more about concepts like proof-of-work, double-spending, public/private keys, etc. to fully grasp the use of hashing in cryptocurrencies.
-
-Let’s take a look at these concepts in future tutorials.
+### Related Tutorials
+1. [What is public/private key cryptography with an example.](https://mdcrypto512.github.io/tutorials/public-private-key-blockchain-bitcoin)
+2. [How does a digital signature work?](https://mdcrypto512.github.io/tutorials/how-does-digital-signature-work)
