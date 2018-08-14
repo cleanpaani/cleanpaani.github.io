@@ -17,7 +17,7 @@ There are two big problems with handwritten signatures:-
 - is unique to an individual, 
 - and the signature varies based on the content of the document being signed. 
 
-Each of these proerties is important and let's study why. 
+Each of these properties is important and let's study why. 
 
 ### Underlying technology of digital signatures
 Digital signatures depend on two technologies (tutorial links below):
