@@ -4,7 +4,9 @@ title: Contact
 permalink: /contact/
 ---
 
-<form action="https://formspree.io/{{site.email}}" method="POST">
+If you'd to get in touch, please use the form below. 
+
+<form class="wj-contact" action="https://formspree.io/{{site.email}}" method="POST">
     <input type="text" name="email" placeholder="Email Address">
     <textarea type="text" name="content" rows="10" placeholder="Message"></textarea>
     <input type="hidden" name="_next" value="https://crytpo512.com">
