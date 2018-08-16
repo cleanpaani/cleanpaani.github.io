@@ -33,10 +33,11 @@ So, let’s say you decide to create your own hashing function and you want ever
 This is not an exhaustive list, but a few fundamental properties that should be satisfied. Let’s take a look!
 
 - **Deterministic:** this means that if I use the hashing function on the same input  million of times, then the output will always be the same. The output should never vary and this is called deterministic.
-- **Not invertible:** This is sometimes also called the “one-way requirement”. Simply put, if I cannot guess the input by looking at the output, then it is a non-invertible hash. In the worst case, it should require an impossible amount of computation to reverse-engineer or invert the hash. That is why it is also called the “one-way property”.
+- **Not invertible:** This is sometimes also called the **“one-way requirement”**. Simply put, if I cannot guess the input by looking at the output, then it is a non-invertible hash. In the worst case, it should require an impossible amount of computation to reverse-engineer or invert the hash. That is why it is also called the “one-way property”.
 - **Fixed size / defined range:** It is desirable that the hash function creates a hash of a known, fixed, pre-determined length. For example, the popular SHA-256 hash produces a 256-bit long hash. Random numbered outputs require extra work for verification and might not make sense for cryptocurrencies.
 - **Quick to compute:** this is an interesting property. To have a lot of people use your new hash function, it should be easy for them to compute. It should not need a powerful computer to compute, but, it should be incredibly difficult to reverse-engineer! Being easy to compute is why cryptographic hashes find uses in common uses cases like digitally signing documents (and doesn’t need any fancy hardware).
 - **Small changes to the input make large changes to the hash:** What this means is that if I change one character in the input (maybe change an “x” to a “y”), then the output/hash should change drastically! Here is an example from SHA-256. You can see that by adding a single alphabet “x” to the input string “cryptochainery”, the hash completely changes. This is a very important property as it makes the hash incredibly hard to hack.
+- **Collision-free:** if the inputs are different, then the outputs should be different. This makes it hard to crack. Theoritically, it is impossible to avoid collisions, but it should be very difficult to find collisions using regular computing hardware. 
 ``` plaintext
 input = cryptochainery     output = 0B8A51051650071F36D64ABC1DACB41FE52601B6E8B2C89BFBDCA129FA1650EF
 input = cryptochaineryx    output = C8B79109CB23C3E218D8C37D0D787BD95362FA58DEBFE3145D4B469C3E00278F 
@@ -48,7 +49,7 @@ Okay! That was a lot of information – so let’s summarize it quickly before w
 
 > - the hashing function should produce an output/hash that has a fixed size.
 > - you should not be able to guess the input by looking at the output (no recognizable patterns in the output hash).
-> - two different input strings should not give the same output.
+> - two different input strings should not give the same output (collision-free)
 > - the hash should be extremely hard to reverse-engineer (computationally).
 > - computing the hash should be computationally efficient.
 
