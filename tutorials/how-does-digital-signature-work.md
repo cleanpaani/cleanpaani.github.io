@@ -5,11 +5,11 @@ categories: ['tutorials', 'fundamentals']
 description: Let us take a look at how digital signatures work in this tutorial and how they are used in enuring the identity of the signer and that the data has not been altered/tampered.
 ---
 
-You must  be familiar with a hand-written signatures that you might have used on contracts, wills, legal documents, etc. Each person creates a unique signature (his style!) which is then used as an unique identifier that proves that he has read and signed a document.
+You must  be familiar with hand-written signatures that are used on contracts, wills, legal documents, etc. Each person creates an unique signature which he/she uses to "sign" a document that proves that he has read and approved the contents of the document.
 
-There are two big problems with handwritten signatures:-
-- it can be forged (copied, duplicated)
-- it is the same on every document - a will, or a bank slip, or a contract
+There are two major problems with handwritten signatures:-
+- they can be forged (copied, duplicated)
+- the signature is the same on every document - a will, or a bank slip, or a contract.
 
 ### Digital Signature
 > A digital signature on the other hand, 
@@ -40,7 +40,8 @@ Let us assume I have a document that I want to digitally sign. Here are the step
 ### Advantages of using a digital signature
 Coming back to the first point in this tutorial, we said that there are advantages to using digital signatures. Let's look at the reasons as well. 
 - **it is hard to forge/replicate:** the signature can be forged only if the private key is lost/stolen and this is rare as the signer is expected to keep it very carefully. 
-- **is unique to an individual:** the signature is created using a signer's private key which is known only to him. So this makes it unique to an individual. It also ensures that after the document has been signed using the private key, a person cannot deny that he signed it (unless his private key hsa been lost). This is called non-repudiation.
+- **is unique to an individual:** the signature is created using a signer's private key which is known only to him. So this makes it unique to an individual.
+- **non-repudiation:** after the document has been signed using the private key, a person cannot deny that he signed it (unless his private key has been lost). 
 - **and the signature varies based on the content of the document being signed:** this is because the signature is created by encrypting the hash of the message. Everytime the message changes, so does the signature making it unique and hard to forge. 
 - **cannot tamper with the public key as well:** if someone tampers with the public key which is transmitted from the signer's side, then the message cannot be decrypted. This is an indication of an hacking attack. Also, a hacker cannot modify the message, hash it, and attempt to recreate the encrypted hash - because it is close to impossible to guess the private key by looking at the output of the encryption.
 
