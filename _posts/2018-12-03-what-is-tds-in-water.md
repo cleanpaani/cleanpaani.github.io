@@ -1,7 +1,7 @@
 ---
 layout: tutorial
 title: What is TDS in water?
-categories: ['tutorials', 'fundamentals']
+categories: knowledge
 description: 51% attack states that if someone has 51% of the nodes in the blockchain, then he can control which blocks become canonical. Let's learn more about this. 
 ---
 
