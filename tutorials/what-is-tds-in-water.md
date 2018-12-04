@@ -20,6 +20,9 @@ Before jumping into TDS measurements, let’s first take a look at how the sedim
 
 > Apart from this, the amount of dissolved solids in water increases with rainwater, runoff, industrial waste mixing in river water, corrosion of the water pipelines, etc
 
+![River water contributes to TDS (total dissolved solids)](/imgs/what-is-tds-in-water.jpg)
+
+
 As you can see, there is no way to control the dissolved sediments from entering our water sources. Hence, our only solution is to purify the water before consuming it (for drinking or other purposes).
 
 Before choosing a purifier, we first need to check the TDS level in the water. Do you know how TDS is measured?
