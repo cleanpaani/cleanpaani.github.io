@@ -2,7 +2,7 @@
 layout: tutorial
 title: What is TDS in water?
 categories: knowledge
-description: 51% attack states that if someone has 51% of the nodes in the blockchain, then he can control which blocks become canonical. Let's learn more about this. 
+description: TDS or Total Dissolved Solids is a very important metric to know when you are doing water purifier research. Let us understand how TDS is measured and what TDS of 200, 300, 500ppm mean to human beings. 
 ---
 
 When you want to buy a water purifier, the first thing you will notice is the word “TDS” on the product details. Each water purifier will give you different TDS values, they will claim that they have TDS regulators, etc. But what is TDS and how important is this value while choosing a water purifier for your home? Let us fully understand it in this article.
