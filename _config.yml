@@ -1,29 +1,14 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Crypto512
-email: mdcrypto512@gmail.com
+title: Clean Paani
+email: cleanpaanisite@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Get the latest on bitcoin, ethereum, blockchain - news, tutorials, updates,
-  and in-depth analysis about the latest in the cryptocurrency world.
+  The #1 resource on water purifiers - RO, UV, UF water purifiers, the technology
+  behind these water purifiers, and our reviews of the popular products in the market. 
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-disqus:
-  shortname: crypto512
+#disqus:
+#  shortname: crypto512
 
 
 twitter_username: 
@@ -38,7 +23,7 @@ plugins:
  - jekyll-sitemap
 
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
