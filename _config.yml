@@ -36,6 +36,7 @@ minima:
 header_pages:
  - about.md
  - contact.md
+ - privacy.md
 
 
 # Exclude from processing.

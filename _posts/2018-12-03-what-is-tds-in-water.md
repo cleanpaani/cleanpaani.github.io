@@ -1,6 +1,6 @@
 ---
 layout: tutorial
-title: What is TDS in water, its measurement, and health effects?
+title: What is TDS in water? (measurement and health effects)
 categories: knowledge
 image: /imgs/tds-chart.jpg
 description: Never buy a water purifier without understanding what TDS (Total Dissolved Solids) in water is. Learn about TDS & its effect on your drinking water & health. 
@@ -17,38 +17,39 @@ TDS of water is very important because,
 Before jumping into TDS measurements, let’s first take a look at how the sediments/solids enter your water source in the first place. 
 
 ### **How do solids enter our drinking water?**
-As you might already know, most of India’s drinking water comes from our rivers which originate in glaciers or come from rainfall. The river water passes over mud, rocks, plants, etc. and even has sewage effluents being diverted into it. These are the main sources of dissolved solids in water.
+As you might already know, most of the world's drinking water comes from rivers which originate in glaciers or are fed by natural rainfall. During the course of its flow, the river water passes over mud, rocks, plants, has fish and other animals living inside it. It's an entire ecosystem! And all of this contributes to the presence of dissolved solids in the water. 
 
-Apart from this, the amount of dissolved solids in water increases with rainwater, runoff, industrial waste mixing in river water, corrosion of the water pipelines, etc
+**Apart from these natural causes, the amount of dissolved solids in water increases with rainwater, sewage runoff, industrial waste mixing in river water, corrosion of the water pipelines, etc.**
 
 ![River water contributes to TDS (total dissolved solids)](/imgs/total-dissolved-solids-river-water.jpg)
 
-As you can see, there is no way to control the dissolved sediments from entering our water sources. Hence, our only solution is to purify the water before consuming it (for drinking or other purposes).
 
-Before choosing a purifier, we first need to check the TDS level in the water. Do you know how TDS is measured?
+Frankly speaking, there is no way to control solids from being dissolved in our water sources. Therefore, our only solution is to purify the water before consuming it (for drinking or other purposes).
 
-Let’s see this in the next section.
+**Before choosing a water purifier, we first need to check the TDS level in our water and understand what the TDS level means.**
+
+So, first let us see how to measure the TDS in water in the next section.
 
 
-### **How is TDS measured in water?**
+### **How is TDS in water measured?**
 ![TDS meter for measuring TDS of water](/imgs/tds-meter.jpg "TDS meter"){: .right-image }
 To measure TDS in water, you need a special instrument called a TDS meter. It is a small, compact, handheld instrument that tells you the TDS of your water in units of “ppm”.
 
-You can buy one on Amazon or Flipkart for Rs. 500 or less and it is very useful to own a TDS meter to periodically check on the quality of water being supplied to your house.
+You can buy one on Amazon or Flipkart for cheap (Rs. 500 or less) and it is very useful to own a TDS meter so that you can  periodically check on the quality of water being supplied to your house.
 
-Here is a link to a high-quality TDS meter on Amazon (click here to check the price).
+Here is a link to a high-quality TDS meter on Amazon [click here to check the price.](https://www.amazon.in/Digital-Meter-Temperature-Quality-Measurement/dp/B00N7F1NLK/){:target="_blank"}
 
-### **What is ppm?**
+As I mentioned, a TDS meter reports the TDS value in water in units of ppm. Do you know what ppm stands for?
+
+### **Definition of ppm**
 1 ppm indicates 1 milligram of dissolved solids per kilogram of water. So, 500 ppm means that 500 milligrams of dissolved solids are there in 1 kg of water.
 
 ### **How does a TDS meter work?**
-A TDS meter does not count the number of dissolved sediments directly. It calculates the TDS indirectly by measuring the electrical conductivity of the water. Let’s understand how it does this.
+A TDS meter does not count the number of dissolved sediments directly. Instead, it calculates the TDS by measuring the electrical conductivity of the water. Let’s understand why and how a TDS meter does this.
 
-Pure water is actually an insulator – i.e., it will not conduct electricity. This type of water is also called de-ionized water. If you add a little bit of salt in it, it will immediately start conducting electricity!! Do you know why?
+First we need to understand that pure water is actually an electrical insulator – i.e., it will not conduct electricity. This type of water is also called de-ionized water. However, if you add a little bit of salt in it, it will immediately start conducting electricity!! Do you know why?
 
-It’s because, when there are dissolved elements in water, the number of ions increase – both positive and negative ions (cations & anions). When the number of such free ions increase, then the electrical conductivity increases i.e., the water becomes a better conductor of water.
-
-Thus, by measuring how well the water conducts electricity, the meter will tell you the TDS value of your water in ppm.
+It’s because, when there are dissolved elements in water, the number of ions increase – both positive and negative ions (cations & anions). When the number of such free ions increase, then the electrical conductivity increases and the water becomes a better conductor of electricity.
 
 > **Summary: if there are dissolved solids in your water, then it will conduct electricity better. By measuring how well the water conducts electricity, the meter will tell you the TDS value of your water in ppm.**
 
@@ -57,7 +58,7 @@ Minerals can easily dissolve in water and their presence can be detected using a
 
 ![TDS chart for TDS in water](/imgs/tds-chart.jpg){: .center-image }
 
-According to the Bureau of Indian Standards, a TDS level of 500 ppm is considered as the upper limit for checking if water is good for drinking. 
+According to the Bureau of Indian Standards, a TDS level of 500 ppm is considered as the upper limit for checking if water is good for drinking. So, if you live in an area where the water supply is good and has a TDS of 300 or lower, then you do not have to invest in water purifiers that claim to reduce the TDS 
 
 ### **Is TDS good or bad for your health?**
 Now that you have an understanding of TDS, how it is measured, and what the different values mean for our health, we can answer the question – is TDS good or bad?
