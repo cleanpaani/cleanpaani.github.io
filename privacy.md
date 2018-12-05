@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy Policy
-description: The #1 resource on water purifiers - RO, UV, UF water purifiers, the technology behind these water purifiers, and our reviews of the popular products in the market.
+description: CleanPaani.com is the no. 1 resource on water purifiers - RO, UV, UF; the technology behind these water purifiers, and reviews of the popular products in the market. 
 permalink: /privacy/
 ---
 ### Privacy Policy
