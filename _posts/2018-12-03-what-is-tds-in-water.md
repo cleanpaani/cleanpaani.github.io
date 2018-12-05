@@ -1,9 +1,9 @@
 ---
 layout: tutorial
-title: What is TDS in water and how is it measured?
+title: What is TDS in water and how it affects your health
 categories: knowledge
 image: /imgs/tds-chart.jpg
-description: TDS or Total Dissolved Solids in water is very important while buying a water purifier. Learn how TDS in water is measured and its implications. 
+description: Never buy a water purifier without understanding what TDS (Total Dissolved Solids) in water is. Learn about TDS & its effect on your drinking water & health. 
 ---
 
 When you want to buy a water purifier, the first thing you will notice is the word “TDS” on the product details. Each water purifier will give you different TDS values, they will claim that they have TDS regulators, etc. But what is TDS and how important is this value while choosing a water purifier for your home? Let us fully understand it in this article.
