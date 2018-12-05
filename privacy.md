@@ -1,48 +1,47 @@
 ---
 layout: page
 title: Privacy Policy
-description: Get the latest on bitcoin, ethereum, blockchain - news, tutorials, updates, and in-depth analysis about the latest in the cryptocurrency world.
+description: The #1 resource on water purifiers - RO, UV, UF water purifiers, the technology behind these water purifiers, and our reviews of the popular products in the market.
 permalink: /privacy/
 ---
 ### Privacy Policy
+#### Effective date: December 05, 2018
 
-### Effective date: August 04, 2018
+Clean Paani ("us", "we", or "our") operates the https://cleanpaani.com website (the "Service").
 
-Crypto512 ("us", "we", or "our") operates the https://crypto512.com website (the "Service").
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for Clean Paani is managed through Free Privacy Policy Website.
 
-This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. This Privacy Policy for Crypto512 is powered by FreePrivacyPolicy.com.
-
-We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from https://crypto512.com
-
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from https://cleanpaani.com
 
 ### Information Collection And Use
 We collect several different types of information for various purposes to provide and improve our Service to you.
 
-
 ### Types of Data Collected
-#### Personal Data
-While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
 
-Email address
-First name and last name
-Cookies and Usage Data
-Usage Data
+#### Personal Data
+
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
+1. Email address
+2. Cookies and Usage Data
+
+### Usage Data
 We may also collect information how the Service is accessed and used ("Usage Data"). This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
-#### Tracking & Cookies Data
+### Tracking & Cookies Data
 We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
 
 Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
 
 You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
-#### Examples of Cookies we use:
-- Session Cookies. We use Session Cookies to operate our Service.
-- Preference Cookies. We use Preference Cookies to remember your preferences and various settings.
-- Security Cookies. We use Security Cookies for security purposes.
+### Examples of Cookies we use:
+- Session Cookies. We use Session Cookies to operate our Service.
+- Preference Cookies. We use Preference Cookies to remember your preferences and various settings.
+- Security Cookies. We use Security Cookies for security purposes.
 
 ### Use of Data
-Crypto512 uses the collected data for various purposes:
+Clean Paani uses the collected data for various purposes:
+
 - To provide and maintain the Service
 - To notify you about changes to our Service
 - To allow you to participate in interactive features of our Service when you choose to do so
@@ -58,14 +57,14 @@ If you are located outside India and choose to provide information to us, please
 
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-Crypto512 will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+Clean Paani will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
 
 ### Disclosure Of Data
-#### Legal Requirements
-Crypto512 may disclose your Personal Data in the good faith belief that such action is necessary to:
+Legal Requirements
+Clean Paani may disclose your Personal Data in the good faith belief that such action is necessary to:
 
 - To comply with a legal obligation
-- To protect and defend the rights or property of Crypto512
+- To protect and defend the rights or property of Clean Paani
 - To prevent or investigate possible wrongdoing in connection with the Service
 - To protect the personal safety of users of the Service or the public
 - To protect against legal liability
@@ -81,12 +80,13 @@ These third parties have access to your Personal Data only to perform these task
 ### Analytics
 We may use third-party Service Providers to monitor and analyze the use of our Service.
 
-### Google Analytics
+#### Google Analytics
+
 Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
 
 You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
 
-For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: https://policies.google.com/privacy?hl=en
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: https://policies.google.com/privacy?hl=en
 
 ### Links To Other Sites
 Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
@@ -102,10 +102,3 @@ We do not knowingly collect personally identifiable information from anyone unde
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
-
-You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
-
-### Contact Us
-If you have any questions about this Privacy Policy, please contact us:
-
-By visiting this page on our website: https://crypto512.com/contact/
