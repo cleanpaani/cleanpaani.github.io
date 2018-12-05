@@ -60,7 +60,7 @@ Your consent to this Privacy Policy followed by your submission of such informat
 Clean Paani will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
 
 ### Disclosure Of Data
-Legal Requirements
+#### Legal Requirements
 Clean Paani may disclose your Personal Data in the good faith belief that such action is necessary to:
 
 - To comply with a legal obligation
