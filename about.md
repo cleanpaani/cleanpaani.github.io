@@ -1,14 +1,25 @@
 ---
 layout: page
 title: About
-description: Get the latest on bitcoin, ethereum, blockchain - news, tutorials, updates, and in-depth analysis about the latest in the cryptocurrency world.
+description: CleanPaani.com is the #1 resource for choosing a water purifier for your home. In-depth articles on RO, UV, UF technologies and product reviews to help you buy the right water purifier for your family.
 permalink: /about/
 ---
 
-Crypto512.com aims at being a one-stop resource for learning blockchain, bitcoin, and cryptocurrency technology. You'll find tutorials starting from the basics and building up to advanced topics. All the material on crypto512.com comes from my personal notes from studying cryptocurrency for a while now. I'll be adding it to the list on a regular (almost daily) schedule - so keep coming back for new material.
+![water](/imgs/running-water-cleanpaani-about-page.jpg){: .center-image }
 
-About me: I enjoying learning new concepts/technologies and helping others learn them as well. In the past, I’ve been an control systems engineer, a doctoral student, R&D scientist, and currently a lead product manager at a fast-paced tech startup.
+Water is vital to our existence. 
 
-I am always on the lookout for new and interesting applications of blockchain technology - so if you want to exchange ideas or simply get it touch, please send me an email at <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a> and let’s get talking.
+We use water from the time we wake up to the time we go to sleep ... for everything. From washing, to bathing, to brushing, to cleaning our cars, to making coffee, to cooking, and the list is endless. 
 
-Thank you!
+It is a privilege in today's world to have clean, safe, drinking water flowing out of your home's tap. For most of us, we know that it is necessary to install a water purifier to make the water potable for our family. Thus, choosing a water purifer becomes an important task and the more you are educated about it, the better your choice will be. 
+
+I had to make the same decision and I was confused by the choices in front of me and the terminologies - RO, UV, UF, RO + UV, RO + UV + UF, TDS, germ magnets, filters, etc. Understanding all these acronyms and choices seemed harder than the PhD I have. 
+
+So I decided to note it all down so that it can be helpful to you as well. On CleanPaani.com, you will find in-depth articles on water purifiers and their technologies. I hope I've made it simple for you to figure things out and buy the correct water purifier for your family. 
+
+> **As a word of advice, don't fall for marketing gimmicks. Go by the company's track record, your locality's water quality, the service record, and cost when you make your decision.**
+
+Thank you and good luck. If you want to reach me, please send an email to cleanpaanisite[at]gmail[dot]com.
+
+Bye,  
+Krishna

@@ -16,11 +16,11 @@ TDS of water is very important because,
 Before jumping into TDS measurements, let’s first take a look at how the sediments/solids enter your water source in the first place. 
 
 ### **How do solids enter our drinking water?**
-> As you might already know, most of India’s drinking water comes from our rivers which originate in glaciers or come from rainfall. The river water passes over mud, rocks, plants, etc. and even has sewage effluents being diverted into it. These are the main sources of dissolved solids in water.
+As you might already know, most of India’s drinking water comes from our rivers which originate in glaciers or come from rainfall. The river water passes over mud, rocks, plants, etc. and even has sewage effluents being diverted into it. These are the main sources of dissolved solids in water.
 
-> Apart from this, the amount of dissolved solids in water increases with rainwater, runoff, industrial waste mixing in river water, corrosion of the water pipelines, etc
+Apart from this, the amount of dissolved solids in water increases with rainwater, runoff, industrial waste mixing in river water, corrosion of the water pipelines, etc
 
-![River water contributes to TDS (total dissolved solids)](/imgs/what-is-tds-in-water.jpg)
+![River water contributes to TDS (total dissolved solids)](/imgs/total-dissolved-solids-river-water.jpg)
 
 
 As you can see, there is no way to control the dissolved sediments from entering our water sources. Hence, our only solution is to purify the water before consuming it (for drinking or other purposes).
@@ -31,6 +31,7 @@ Let’s see this in the next section.
 
 
 ### **How is TDS measured in water?**
+![TDS meter](/imgs/tds-meter.jpg){: .right-image }
 To measure TDS in water, you need a special instrument called a TDS meter. It is a small, compact, handheld instrument that tells you the TDS of your water in units of “ppm”.
 
 You can buy one on Amazon or Flipkart for Rs. 500 or less and it is very useful to own a TDS meter to periodically check on the quality of water being supplied to your house.
@@ -53,6 +54,8 @@ Thus, by measuring how well the water conducts electricity, the meter will tell 
 
 ### **What is the acceptable level of TDS in drinking water?**
 Minerals can easily dissolve in water and their presence can be detected using a TDS meter. Common TDS limits are 300, 500, 1000 ppm. 
+
+![TDS chart](/imgs/tds-chart.jpg){: .center-image }
 
 According to the Bureau of Indian Standards, a TDS level of 500 ppm is considered as the upper limit for checking if water is good for drinking. 
 
