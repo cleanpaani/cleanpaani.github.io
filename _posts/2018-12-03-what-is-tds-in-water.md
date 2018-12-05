@@ -1,6 +1,6 @@
 ---
 layout: tutorial
-title: What is TDS in water and how it affects your health
+title: What is TDS in water, its measurement, and health effects?
 categories: knowledge
 image: /imgs/tds-chart.jpg
 description: Never buy a water purifier without understanding what TDS (Total Dissolved Solids) in water is. Learn about TDS & its effect on your drinking water & health. 
