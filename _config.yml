@@ -3,7 +3,8 @@ email: cleanpaanisite@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The #1 resource on water purifiers - RO, UV, UF water purifiers, the technology
   behind these water purifiers, and our reviews of the popular products in the market. 
-
+author: Krishna
+publisher: CleanPaani.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 

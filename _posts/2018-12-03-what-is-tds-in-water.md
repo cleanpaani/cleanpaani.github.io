@@ -2,6 +2,7 @@
 layout: tutorial
 title: What is TDS in water?
 categories: knowledge
+image: /imgs/tds-chart.jpg
 description: TDS or Total Dissolved Solids is a very important metric to know when you are doing water purifier research. Let us understand how TDS is measured and what TDS of 200, 300, 500ppm mean to human beings. 
 ---
 
