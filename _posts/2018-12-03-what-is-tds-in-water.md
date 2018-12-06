@@ -8,7 +8,7 @@ description: Never buy a water purifier without understanding what TDS (Total Di
 
 When you want to buy a water purifier, the first thing you will notice is the word “TDS” on the product details. Each water purifier will give you different TDS values, they will claim that they have TDS regulators, etc. But what is TDS and how important is this value while choosing a water purifier for your home? Let us fully understand it in this article.
 
-**Total dissolved solids (TDS) is a measure of the amount of minerals, salts or metals dissolved in a given volume of water. In simple terms, it is the measure of the amount of minerals in the water like Magnesium, Calcium, Potassium, Sulphates, etc.**
+**Total dissolved solids (TDS) is a measure of the amount of minerals, salts or metals dissolved in a given volume of water. In simple terms, it is the measure of the amount of minerals in the water like Magnesium, Calcium, Potassium, Sulphates, Carbonates, Nitrates, etc.**
 
 TDS of water is very important because,
 * by measuring the TDS or total dissolved solids in a given amount of water, we can get an idea of water’s purity levels.
@@ -19,7 +19,7 @@ Before jumping into TDS measurements, let’s first take a look at how the sedim
 ### **How do solids enter our drinking water?**
 As you might already know, most of the world's drinking water comes from rivers which originate in glaciers or are fed by natural rainfall. During the course of its flow, the river water passes over mud, rocks, plants, has fish and other animals living inside it. It's an entire ecosystem! And all of this contributes to the presence of dissolved solids in the water. 
 
-**Apart from these natural causes, the amount of dissolved solids in water increases with rainwater, sewage runoff, industrial waste mixing in river water, corrosion of the water pipelines, etc.**
+**Apart from these natural causes, the amount of dissolved solids in water increases with rainwater, sewage runoff, industrial & agricultural waste mixing in river water, corrosion of the water pipelines, etc.**
 
 ![River water contributes to TDS (total dissolved solids)](/imgs/total-dissolved-solids-river-water.jpg)
 
@@ -58,17 +58,57 @@ It’s because, when there are dissolved elements in water, the number of ions i
 ### **What is the acceptable level of TDS in drinking water?**
 So now we know how TDS is measured. If you take a glassful of water from your tap and measure the TDS in it, you will get readings of 200ppm or 300pm, etc. What does this really mean though? Is your water safe for drinking? What are the standards for deciding how safe your water is depending on the TDS value? 
 
-![TDS chart for TDS in water](/imgs/tds-chart.jpg){: .center-image }
+One report that is often referred to is the WHO (World Health Organization)'s report on TDS and its effects can be accessed by [clicking here](https://www.who.int/water_sanitation_health/dwq/chemicals/tds.pdf){:target="_blank"}. It summarizes how the water tastes to a panel of tasters depending on the level of TDS in the water. The data from WHO is summarized below:
 
-According to the Bureau of Indian Standards, a TDS level of 500 ppm is considered as the upper limit for checking if water is good for drinking. So, if you live in an area where the water supply is good and has a TDS of 300 or lower, then you do not have to invest in water purifiers that claim to reduce the TDS 
+<table style="text-align: center;">
+    <colgroup>
+        <col width="50%" />
+        <col width="50%" />
+    </colgroup>
+    <thead>
+        <tr class="header">
+            <th>TDS in ppm</th>
+            <th>Effect on taste</th>
+        </tr>
+    </thead>
+    <tbody style="text-align: center;">
+        <tr>
+            <td markdown="span">< 300 ppm</td>
+            <td markdown="span">Excellent</td>
+        </tr>
+        <tr>
+            <td markdown="span">300 - 600 ppm</td>
+            <td markdown="span">Good</td>
+        </tr>
+        <tr>
+            <td markdown="span">600 - 900 ppm</td>
+            <td markdown="span">Fair</td>
+        </tr>       
+        <tr>
+            <td markdown="span">900 - 1200 ppm</td>
+            <td markdown="span">Poor</td>
+        </tr>
+        <tr>
+            <td markdown="span"> > 1200 ppm</td>
+            <td markdown="span">Unacceptable</td>
+        </tr> 
+    </tbody>
+</table>
+
+Note that this table talks about "taste". But, it applies as well to the potability of the water. If the TDS is high, then there are too many dissolved solids in it and it obviously will not taste good! 
+
+According to the Bureau of Indian Standards, a TDS level of 500 ppm is considered as the upper limit for checking if water is good for drinking. As per the WHO guidelines, this is "good" water. 
+
 
 ### **Is TDS good or bad for your health?**
 Now that you have an understanding of TDS, how it is measured, and what the different values mean for our health, we can answer the question – is TDS good or bad?
 
 The short answer is – it depends!
 * If the TDS value is too low, then your body will not receive the required amount of nutrition from water and your health will suffer.
-* If the TDS value is too high, then you are drinking unsafe, impure water.
+* If the TDS value is too high, then you are drinking unsafe, impure water. Especially in the 900+ range. 
 
-Ultimately, you need to aim for a TDS value of around 300 – 500 ppm. If your water supply comes within this range, then you are in luck! Else, you have to make a small investment to purify your water and remove some of these dissolved solids. 
+Ultimately, you need to aim for a TDS value of around 300 – 600 ppm. If your water supply comes within this range, then you are in luck! Else, you have to make a small investment to purify your water and remove some of these dissolved solids. 
+
+In the next few articles, we will study the different sorts of water purifiers (RO, UV, UF) and how they affect the TDS and water quality. 
 
 **_Please let me know in the comments section how you did your research before purchasing a water purifier. Which brand of TDS meter do you own and what is your opinion about it? Thank you!_**
