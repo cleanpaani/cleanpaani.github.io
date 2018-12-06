@@ -33,11 +33,9 @@ So, first let us see how to measure the TDS in water in the next section.
 
 ### **How is TDS in water measured?**
 ![TDS meter for measuring TDS of water](/imgs/tds-meter.jpg "TDS meter"){: .right-image }
-To measure TDS in water, you need a special instrument called a TDS meter. It is a small, compact, handheld instrument that tells you the TDS of your water in units of “ppm”.
+**To measure TDS in water, you need a special instrument called a TDS meter.** It is a small, compact, handheld instrument that tells you the TDS of your water in units of “ppm”.
 
-You can buy one on Amazon or Flipkart for cheap (Rs. 500 or less) and it is very useful to own a TDS meter so that you can  periodically check on the quality of water being supplied to your house.
-
-Here is a link to a high-quality TDS meter on Amazon [click here to check the price.](https://www.amazon.in/Digital-Meter-Temperature-Quality-Measurement/dp/B00N7F1NLK/){:target="_blank"}
+TDS meters are not costly - in fact, here is a link to a high-quality TDS meter on Amazon.com that you can use to check the TDS level of your water supply on a regular basis ([click here to check the latest discounted price.](https://www.amazon.in/Digital-Meter-Temperature-Quality-Measurement/dp/B00N7F1NLK/){:target="_blank" .amazon-link})
 
 As I mentioned, a TDS meter reports the TDS value in water in units of ppm. Do you know what ppm stands for?
 
@@ -45,16 +43,20 @@ As I mentioned, a TDS meter reports the TDS value in water in units of ppm. Do y
 1 ppm indicates 1 milligram of dissolved solids per kilogram of water. So, 500 ppm means that 500 milligrams of dissolved solids are there in 1 kg of water.
 
 ### **How does a TDS meter work?**
-A TDS meter does not count the number of dissolved sediments directly. Instead, it calculates the TDS by measuring the electrical conductivity of the water. Let’s understand why and how a TDS meter does this.
+A TDS meter does not count the number of dissolved sediments directly. In fact - how can you count dissolved solids?? Instead, a TDS meter calculates the TDS by measuring the electrical conductivity of the water.
 
-First we need to understand that pure water is actually an electrical insulator – i.e., it will not conduct electricity. This type of water is also called de-ionized water. However, if you add a little bit of salt in it, it will immediately start conducting electricity!! Do you know why?
+This technique seems odd - so, let’s understand why a TDS meter uses an indirect method to measure TDS.
+
+First we need to understand that **pure water is an electrical insulator** – i.e., it will not conduct electricity. This type of water is also called de-ionized water. However, if you add a little bit of salt in it, it will immediately start conducting electricity!!
+
+Do you know why? Remember high school chemistry?
 
 It’s because, when there are dissolved elements in water, the number of ions increase – both positive and negative ions (cations & anions). When the number of such free ions increase, then the electrical conductivity increases and the water becomes a better conductor of electricity.
 
-> **Summary: if there are dissolved solids in your water, then it will conduct electricity better. By measuring how well the water conducts electricity, the meter will tell you the TDS value of your water in ppm.**
+> **Summary: if there are dissolved solids in water, then the water will conduct electricity better. By measuring how well the water conducts electricity, the meter will tell you the TDS value of your water in ppm.**
 
 ### **What is the acceptable level of TDS in drinking water?**
-Minerals can easily dissolve in water and their presence can be detected using a TDS meter. Common TDS limits are 300, 500, 1000 ppm. 
+So now we know how TDS is measured. If you take a glassful of water from your tap and measure the TDS in it, you will get readings of 200ppm or 300pm, etc. What does this really mean though? Is your water safe for drinking? What are the standards for deciding how safe your water is depending on the TDS value? 
 
 ![TDS chart for TDS in water](/imgs/tds-chart.jpg){: .center-image }
 
@@ -68,3 +70,5 @@ The short answer is – it depends!
 * If the TDS value is too high, then you are drinking unsafe, impure water.
 
 Ultimately, you need to aim for a TDS value of around 300 – 500 ppm. If your water supply comes within this range, then you are in luck! Else, you have to make a small investment to purify your water and remove some of these dissolved solids. 
+
+**_Please let me know in the comments section how you did your research before purchasing a water purifier. Which brand of TDS meter do you own and what is your opinion about it? Thank you!_**
