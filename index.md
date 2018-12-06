@@ -3,6 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-description: Get the latest on bitcoin, ethereum, blockchain - news, tutorials, updates, and in-depth analysis about the latest in the cryptocurrency world.
+description: Get the latest information on RO, UV, UF water purifiers and the technology behind them. Make the best choice for your family when it comes to buying a water purifer.
 ---
 
